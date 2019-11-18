@@ -5,13 +5,7 @@ import lombok.Data;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
-/**
- * @author mq_xu
- * @ClassName User
- * @Description 用户实体类
- * @Date 9:47 2019/11/9
- * @Version 1.0
- **/
+
 @Data
 public class User {
     private Long id;

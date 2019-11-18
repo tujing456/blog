@@ -3,13 +3,7 @@ package com.csc.web.blog.util;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * @author mq_xu
- * @ClassName StringUtil
- * @Description 字符串工具类
- * @Date 0:07 2019/11/14
- * @Version 1.0
- **/
+
 public class StringUtil {
     /**
      * 提取字符串中的数字字符为一个字符串数组

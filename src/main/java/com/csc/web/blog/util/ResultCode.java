@@ -3,13 +3,7 @@ package com.csc.web.blog.util;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author mq_xu
- * @ClassName StingUtil
- * @Description 使用一个枚举全局管理API状态码，这对线上环境定位错误问题和后续接口文档的维护都是很有帮助
- * @Date 11:30 2019/11/9
- * @Version 1.0
- **/
+
 public enum ResultCode {
     /* 成功状态码 */
     SUCCESS(1, "成功"),

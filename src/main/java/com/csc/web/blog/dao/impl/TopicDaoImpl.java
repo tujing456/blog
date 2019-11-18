@@ -14,13 +14,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author mq_xu
- * @ClassName TopicDaoImpl
- * @Description TODO
- * @Date 2019/11/16
- * @Version 1.0
- **/
+
 public class TopicDaoImpl implements TopicDao {
     private static Logger logger = LoggerFactory.getLogger(TopicDaoImpl.class);
 

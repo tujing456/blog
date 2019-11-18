@@ -18,13 +18,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-/**
- * @author mq_xu
- * @ClassName UserController
- * @Description 用户控制器
- * @Date 2019/11/9
- * @Version 1.0
- **/
+
 @WebServlet(urlPatterns = {"/api/user/*"})
 public class UserController extends HttpServlet {
     private static Logger logger = LoggerFactory.getLogger(UserController.class);

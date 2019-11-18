@@ -6,13 +6,7 @@ import com.csc.web.blog.entity.Topic;
 import java.sql.SQLException;
 import java.util.List;
 
-/**
- * @author mq_xu
- * @ClassName TopicDao
- * @Description TODO
- * @Date 2019/11/14
- * @Version 1.0
- **/
+
 public interface TopicDao {
     /**
      * 批量新增专题

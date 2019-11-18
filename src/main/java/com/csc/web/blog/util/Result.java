@@ -4,13 +4,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * @author mq_xu
- * @ClassName Result
- * @Description 返回给客户端的结果对象
- * @Date 2019/11/16
- * @Version 1.0
- **/
+
 @Data
 public class Result implements Serializable {
 

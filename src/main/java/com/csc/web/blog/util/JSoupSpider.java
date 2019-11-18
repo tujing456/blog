@@ -15,13 +15,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author mq_xu
- * @ClassName JSoupSpider
- * @Description JSoup爬虫，抓取数据
- * @Date 9:13 2019/11/7
- * @Version 1.0
- **/
+
 public class JSoupSpider {
     private static Logger logger = LoggerFactory.getLogger(JSoupSpider.class);
 

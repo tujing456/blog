@@ -3,13 +3,7 @@ package com.csc.web.blog.service;
 import com.csc.web.blog.domain.dto.UserDto;
 import com.csc.web.blog.util.Result;
 
-/**
- * @author mq_xu
- * @ClassName UserService
- * @Description 用户业务逻辑接口
- * @Date 12:01 2019/11/9
- * @Version 1.0
- **/
+
 public interface UserService {
     /**
      * 用户登录功能

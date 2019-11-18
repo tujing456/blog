@@ -16,13 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-/**
- * @author mq_xu
- * @ClassName ArticleController
- * @Description 文章控制器
- * @Date 2019/11/11
- * @Version 1.0
- **/
+
 @WebServlet(urlPatterns = {"/api/article/*"})
 public class ArticleController extends HttpServlet {
 

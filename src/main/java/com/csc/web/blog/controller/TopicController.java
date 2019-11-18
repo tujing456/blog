@@ -16,13 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-/**
- * @author mq_xu
- * @ClassName TopicController
- * @Description 专题控制器
- * @Date 2019/11/16
- * @Version 1.0
- **/
+
 @WebServlet(urlPatterns = {"/api/topic/*"})
 public class TopicController extends HttpServlet {
     private TopicService topicService = ServiceFactory.getTopicServiceInstance();

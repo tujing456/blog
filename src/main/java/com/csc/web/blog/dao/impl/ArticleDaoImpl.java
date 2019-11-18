@@ -14,13 +14,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author mq_xu
- * @ClassName ArticleDaoImpl
- * @Description TODO
- * @Date 2019/11/10
- * @Version 1.0
- **/
+
 public class ArticleDaoImpl implements ArticleDao {
     private static Logger logger = LoggerFactory.getLogger(ArticleDaoImpl.class);
 

@@ -15,13 +15,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.*;
 
-/**
- * @author mq_xu
- * @ClassName StingUtil
- * @Description 模拟构造用户数据的工具类
- * @Date 11:30 2019/11/9
- * @Version 1.0
- **/
+
 public class DataUtil {
     private static Logger logger = LoggerFactory.getLogger(DataUtil.class);
 

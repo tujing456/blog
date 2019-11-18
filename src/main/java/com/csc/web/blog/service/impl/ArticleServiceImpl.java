@@ -12,13 +12,7 @@ import org.slf4j.LoggerFactory;
 import java.sql.SQLException;
 import java.util.List;
 
-/**
- * @author mq_xu
- * @ClassName ArticleServiceImpl
- * @Description TODO
- * @Date 22:49 2019/11/11
- * @Version 1.0
- **/
+
 public class ArticleServiceImpl implements ArticleService {
     private ArticleDao articleDao = DaoFactory.getArticleDaoInstance();
     private static Logger logger = LoggerFactory.getLogger(ArticleServiceImpl.class);

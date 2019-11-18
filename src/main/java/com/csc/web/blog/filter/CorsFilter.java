@@ -8,13 +8,7 @@ import javax.servlet.annotation.WebFilter;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-/**
- * @author mq_xu
- * @ClassName CORSFilter
- * @Description 跨域过滤器
- * @Date 2019/10/3
- * @Version 1.0
- **/
+
 @WebFilter(urlPatterns = "/*")
 public class CorsFilter implements Filter {
     private static Logger logger = LoggerFactory.getLogger(CorsFilter.class);

@@ -6,13 +6,7 @@ import com.csc.web.blog.entity.User;
 import java.sql.SQLException;
 import java.util.List;
 
-/**
- * @author mq_xu
- * @ClassName UserDao
- * @Description UserDao数据访问对象接口
- * @Date 10:54 2019/11/9
- * @Version 1.0
- **/
+
 public interface UserDao {
     /**
      * 新增用户

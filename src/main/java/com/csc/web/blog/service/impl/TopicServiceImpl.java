@@ -13,13 +13,7 @@ import org.slf4j.LoggerFactory;
 import java.sql.SQLException;
 import java.util.List;
 
-/**
- * @author mq_xu
- * @ClassName TopicServiceImpl
- * @Description TODO
- * @Date 2019/11/16
- * @Version 1.0
- **/
+
 public class TopicServiceImpl implements TopicService {
 
     private TopicDao topicDao = DaoFactory.getTopicDaoInstance();
