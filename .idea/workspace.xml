@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e424d01f-3885-4516-bcfa-d2ca7d67d930" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\maven_jar" />
+        <option name="mavenHome" value="C:/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TlkrzIWRnx1s4DfeZVcbkjTWyp" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.csc.web.blog.dao" />
+      <recent name="com.csc.web.blog.service" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.csc.web.blog.service.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\blog3\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TopicDaoTest.selectHotTopics">
+    <configuration name="ArticleDaoTest.getArticle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.csc.web.blog.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.csc.web.blog.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.csc.web.blog.dao.ArticleDaoTest" />
+      <option name="METHOD_NAME" value="getArticle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleDaoTest.selectHotArticles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.csc.web.blog.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.csc.web.blog.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.csc.web.blog.dao.ArticleDaoTest" />
+      <option name="METHOD_NAME" value="selectHotArticles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopicDaoTest.selectHotTopics" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.csc.web.blog.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.csc.web.blog.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.csc.web.blog.dao.TopicDaoTest" />
+      <option name="METHOD_NAME" value="selectHotTopics" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.csc.web.blog.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.csc.web.blog.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.csc.web.blog.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="selectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.signIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.csc.web.blog.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.csc.web.blog.service" />
+      <option name="MAIN_CLASS_NAME" value="com.csc.web.blog.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="signIn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TopicDaoTest.selectHotTopics" />
+        <item itemvalue="JUnit.UserServiceTest.signIn" />
+        <item itemvalue="JUnit.UserDaoTest.selectAll" />
+        <item itemvalue="JUnit.ArticleDaoTest.getArticle" />
+        <item itemvalue="JUnit.ArticleDaoTest.selectHotArticles" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e424d01f-3885-4516-bcfa-d2ca7d67d930" name="Default Changelist" comment="" />
+      <created>1574042271630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574042271630</updated>
+      <workItem from="1574042276999" duration="11414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/blog3$TopicDaoTest_selectHotTopics.ic" NAME="TopicDaoTest.selectHotTopics Coverage Results" MODIFIED="1574062333147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.csc.web.blog.dao.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/blog3$ArticleDaoTest_getArticle.ic" NAME="ArticleDaoTest.getArticle Coverage Results" MODIFIED="1574064796833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.csc.web.blog.dao.*</FILTER>
+    </SUITE>
+  </component>
+</project>
